@@ -2,22 +2,11 @@
 
 ## Problem Description
 
-Many individuals struggle with tracking their personal finances in a meaningful way. With multiple transactions happening daily (groceries, 
-entertainment, utilities), people often lose track of how much they are 
-spending and in which categories. This lack of clarity can lead to 
-overspending, poor budgeting decisions, and financial stress. While some 
-people use spreadsheets or basic budgeting apps, these tools often lack 
-advanced features like automatic expense categorization or visual data 
-that helps users quickly assess their financial health.
+Many individuals struggle with tracking their personal finances in a meaningful way. With multiple transactions happening daily (groceries, entertainment, utilities), people often lose track of how much they are spending and in which categories. This lack of clarity can lead to overspending, poor budgeting decisions, and financial stress. While some people use spreadsheets or basic budgeting apps, these tools often lack advanced features like automatic expense categorization or visual data that helps users quickly assess their financial health.
 
 ## Proposed Solution
 
-Our web application, **BudgetWise**, aims to provide a more intuitive and 
-visual solution for tracking personal finances. BudgetWise will allow 
-users to easily log their income and expenses and automatically categorize 
-transactions based on the type of purchase. Users will have access to 
-real-time data visualizations that provide insights into their spending 
-habits, allowing them to set goals and track their progress.
+Our web application, **BudgetWise**, aims to provide a more intuitive and  visual solution for tracking personal finances. BudgetWise will allow  users to easily log their income and expenses and automatically categorize  transactions based on the type of purchase. Users will have access to real-time data visualizations that provide insights into their spending habits, allowing them to set goals and track their progress.
 
 Key features include:
 
