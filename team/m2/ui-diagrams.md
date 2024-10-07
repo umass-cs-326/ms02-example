@@ -9,3 +9,9 @@ On this screen, users can interact with three main elements:
 1. **Spending Overview**: A pie chart that visually represents the user's spending across different categories. Hovering over each slice of the pie will display the exact amount spent in that category, giving users a detailed breakdown without overwhelming them with numbers.
 2. **Savings Goals Progress Bar**: Below the pie chart, there will be a progress bar showing the user’s progress toward their savings goal. This element provides a quick visual indicator of how close the user is to achieving their goal.
 3. **Expense Log Button**: A prominent button labeled “Log Expense” will be located at the top right of the dashboard. Clicking this button will take users to the **Expense Logging Screen**, where they can add new expenses.
+
+This screen is designed to be the central hub of the user’s experience, providing them with a high-level view of their financial status while also offering easy access to more detailed information. 
+
+**Use Case**: 
+
+A user who wants to quickly check their spending for the month would log into the application and immediately see their total spending for the month and the breakdown by category. If they notice that their spending in the "Dining Out" category is higher than expected, they can decide to cut back on that category in the upcoming weeks.
